@@ -1,6 +1,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Add this line -->
+    <!-- <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" /> -->
+    <!-- Or -->
+    <queries>
+      <package android:name="com.ubercab" /> <!-- package id -->
+      <package android:name="com.waze" /> <!-- package id -->
+      <package android:name="com.google.android.apps.maps" /> <!-- package id -->
+      <!-- ... -->
+    </queries>
 
     <application
       android:name=".MainApplication"
