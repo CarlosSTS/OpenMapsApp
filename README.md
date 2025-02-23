@@ -1,6 +1,6 @@
 # Location Routing App
 
-This project demonstrates how to use a @carlossts/rtn-utils library to open navigation apps like Uber, Waze, and Google Maps for route navigation.
+This project demonstrates how to use a [@carlossts/rtn-utils](https://github.com/CarlosSTS/rtn-utils) library to open navigation apps like Uber, Waze, and Google Maps for route navigation.
 
 ## Installation
 
