@@ -34,11 +34,10 @@ Starting from Android 11 (API level 30), apps can no longer query all installed 
 ## Screenshots
 
 ### getLocationApps method
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/libs_npm%2Frtn-utils%2Fimage07.jpeg?alt=media&token=455c652f-a1d9-41c1-8e7c-8099b9c18c0f" width="200" />
-
+<img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1767030091/image07_lwntgw.png" width="300" />
 
 ### openAppWithLocation method
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/libs_npm%2Frtn-utils%2Fimage08.jpeg?alt=media&token=7c016f39-b8b0-4d0a-91dc-c393f12277d6" width="200" />
+<img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1767030092/image08_u1yacs.png" width="300" />
 
 ## Library Reference
 > [Library Reference](https://github.com/CarlosSTS/rtn-utils)
